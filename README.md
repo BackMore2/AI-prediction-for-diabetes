@@ -98,3 +98,4 @@ As far as the results of the five models are concerned, it can be seen that line
 For the prediction of diabetes, it is clear from the results of multiple models that the accuracy of linear regression is obviously very inefficient (F1 score is only 0.3) when dealing with nonlinear diseases. For random forests and logical regression, these data without linear relationship can be better fitted.
 
 翻译非常粗暴，实在看不懂浏览器机翻回去也看的明白（嘻嘻
+做的第一个github项目，不太会用git提交，拼尽全力无法战胜
